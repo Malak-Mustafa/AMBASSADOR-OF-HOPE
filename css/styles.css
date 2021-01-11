@@ -162,7 +162,7 @@ padding-bottom:100px;}
  /*----------------------------------------------*/
  /*hobbies*/
  #b4{background-image: url("../images/hob3.png");
- background-repeat: no-repeat;}
+ /*background-repeat: no-repeat;*/}
  #t4{border: 5px outset #ee3d56 ;
  border-radius: 10px;
  background-color:#69e2db;
