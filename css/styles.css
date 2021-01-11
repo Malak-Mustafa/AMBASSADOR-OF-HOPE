@@ -24,7 +24,8 @@ text-align: center;
 text-shadow: 0 5px 5px black; 
 padding-top: 20px; }
 
-#b1{background-image: url("../images/sky2.JPG");
+#b1{/*background-image: url("../images/sky2.JPG");*/
+	background-color: #3e95c1;
 text-align: center; 
 padding-bottom:100px;}
  .a1{font-family: "Libre Baskerville", serif;
